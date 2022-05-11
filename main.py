@@ -137,6 +137,7 @@
 # print(f)
 import math
 import collections
+print('Hello world')
 hero = [
     {'hp': 100, 'mana': 300, 'stamina': 50},
     {'name': 'Jonathan', 'surname': 'Sairus', 'age': 22},
